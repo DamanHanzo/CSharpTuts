@@ -27,7 +27,28 @@ namespace Grades
             return stats;
         }
 
-        public string Name;
+        public GradeBook(string name = "There is no name")
+        {
+            _name = name; //initializing the memeber variable name
+            grades = new List<float>(); 
+        }
+
+        private string _name;
+        
+        public string Name
+        {
+            get
+            {
+                return _name.ToUpper();
+            }
+            set
+            {
+                if (!String.IsNullOrEmpty(value))
+                {
+                    _name = value;
+                }
+            }
+        }
         
         List<float> grades = new List<float>(); //field
     }
