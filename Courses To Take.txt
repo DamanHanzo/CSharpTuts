@@ -1,0 +1,5 @@
+https://app.pluralsight.com/library/courses/csharp-fundamentals-csharp5/table-of-contents 
+https://app.pluralsight.com/library/courses/csharp-fundamentals 
+
+https://app.pluralsight.com/library/courses/aspdotnet-mvc 
+https://app.pluralsight.com/library/courses/aspdotnet-mvc-advanced-topics 
