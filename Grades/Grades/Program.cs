@@ -10,19 +10,19 @@ namespace Grades
     {
         static void Main(string[] args)
         {
-            GradeBook book = new GradeBook();
-            book.AddGrade(91f);
-            book.AddGrade(89.5f);
-            book.AddGrade(95f);
-            book.AddGrade(23.3f);
+            /*gradebook book = new gradebook();
+            book.addgrade(91f);
+            book.addgrade(89.5f);
+            book.addgrade(95f);
+            book.addgrade(23.3f);
 
-            GradeStatistics stats = book.ComputeStatistics();
-            Console.WriteLine("Average Grade:" + stats.AverageGrade);
-            Console.WriteLine("Lowest Grade:" + stats.LowestGrade);
-            Console.WriteLine("Highest Grade:" + stats.HighesetGrade);
+            gradestatistics stats = book.computestatistics();
+            console.writeline("average grade:" + stats.averagegrade);
+            console.writeline("lowest grade:" + stats.lowestgrade);
+            console.writeline("highest grade:" + stats.highesetgrade);
 
-            GradeBook book2 = new GradeBook(); //cretes a new object with reassignment
-            book2.AddGrade(75);
+            gradebook book2 = new gradebook(); //cretes a new object with reassignment
+            book2.addgrade(75);*/
         }
     }
 }
