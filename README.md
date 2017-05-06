@@ -1,4 +1,4 @@
-#C# Tutorials
+# C# Tutorials
 - Learned about OOP
 - CLR and FCL
 - Primitive Types
